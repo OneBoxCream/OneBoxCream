@@ -1,6 +1,12 @@
 ## Hi, I'm Lernie Li 👋
 
-I work on generative models: diffusion transformers, mixture-of-experts architectures, and image and video generation.
+I work on generative AI, from model architectures to post-training.
+
+### 🧭 Research interests
+
+- **Generative models**: diffusion transformers, mixture-of-experts architectures, image and video generation
+- **Large language models and vision-language models** (LLMs, VLMs)
+- **Reinforcement learning for post-training**: DPO, PPO, GRPO, OPD, OPSD
 
 ### 🔬 Research
 
