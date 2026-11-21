@@ -11,7 +11,7 @@
 
 ### 🧭 Research interests
 
-| | |
+| Area | Topics |
 |:--|:--|
 | 🎨 **Generative models** | Diffusion transformers, mixture-of-experts architectures, image and video generation |
 | 🧠 **Language and vision** | Large language models (LLMs) and vision-language models (VLMs) |
