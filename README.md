@@ -1,11 +1,9 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-  <img src="assets/banner-light.svg" width="100%" alt="Lernie Li: generative AI, from model architectures to post-training">
-</picture>
+<img src="assets/header.jpg" width="100%" alt="Lernie Li: generative AI, from model architectures to post-training">
 
 <p>
 <a href="https://oneboxcream.github.io/"><img src="https://img.shields.io/badge/Homepage-oneboxcream.github.io-1f4e8c?style=flat-square" height="24" alt="Homepage"></a>
 <a href="https://huggingface.co/OneCreamBox"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-OneCreamBox-d96902?style=flat-square" height="24" alt="Hugging Face"></a>
+<a href="https://x.com/OneBoxCream"><img src="https://img.shields.io/badge/X-@OneBoxCream-141a22?style=flat-square&logo=x" height="24" alt="X"></a>
 <a href="mailto:lernie.ai.lab@gmail.com"><img src="https://img.shields.io/badge/Email-lernie.ai.lab%40gmail.com-465160?style=flat-square" height="24" alt="Email"></a>
 </p>
 
